@@ -1,0 +1,11 @@
+name: covid_data
+title:
+username:
+account: hieungan181
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4306286
+bundleId: 4744908
+url: https://hieungan181.shinyapps.io/covid_data/
+when: 1624395107.07924
+lastSyncTime: 1624395107.07926
